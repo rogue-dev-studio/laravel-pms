@@ -1,0 +1,7 @@
+npm install rollup-plugin-copy --save-dev
+npm install line-awesome
+npm install remixicon
+npm install tui-calendar
+npm install tui-date-picker
+npm install tui-time-picker
+npm install moment
