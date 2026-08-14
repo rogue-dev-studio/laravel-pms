@@ -20,9 +20,6 @@ Memberi tim gambaran kerja proyek: tugas, progress, dan kolaborasi dalam satu si
 - NFR-03 Berjalan di browser modern
 
 ## Batasan & asumsi
-- Template/demo portfolio (bukan SaaS multi-tenant penuh)
-- Integrasi CI/CD lanjutan dan billing di luar scope demo
-- Kustomisasi workflow mengikuti kebutuhan klien
-
-## Stack
-- Laravel, web UI modern, demo di Netlify
+- Template/demo portfolio (halaman Blade). Bukan PMS produksi dan bukan SaaS.
+- Auth, billing, dan CI/CD lanjutan di luar scope.
+- Laravel 11, PHP 8.2+. Demo: https://demo-pms.netlify.app/

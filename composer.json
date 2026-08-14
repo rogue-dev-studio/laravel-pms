@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "rogue-dev-studio/laravel-pms",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "Laravel 11 UI demo for a project management dashboard. Not a production PMS.",
     "keywords": ["laravel", "framework"],
     "license": "MIT",
     "require": {
